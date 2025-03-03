@@ -1,7 +1,7 @@
 [![version](https://img.shields.io/badge/version-1.0v-orange)](https://github.com/mabdelmaksoud53/yt-downloader)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mabdelmaksoud53/yt-downloader/blob/main/yt_downloader.ipynb)
 
 # YouTube Video & Playlist Downloader
-
+[![YT-DLP](https://github.com/mabdelmaksoud53/yt-downloader/blob/main/banner.png)](#readme)
 A simple Python script to download YouTube videos and playlists using `yt-dlp`.
 
 ## Features
