@@ -21,7 +21,7 @@ A simple Python script to download YouTube videos and playlists using `yt-dlp`.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/mabdelmakosud53/yt-downloader.git
+   git clone https://github.com/mabdelmaksoud53/yt-downloader
    cd yt-downloader
    ```
 
