@@ -45,10 +45,6 @@ You can modify the script to specify a video or playlist URL.
 
 Developed by [Mostafa S. Abd El-Maksoud](https://www.github.com/mabdelmakosud53)
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Last Modified
 
 **Created:** March 1, 2025\
